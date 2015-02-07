@@ -1,0 +1,81 @@
+html,
+body {
+  height:100%;
+  width:100%;
+}
+
+body {
+  background-color: #fefefe;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #232323;
+  padding: 60px 0 0 0;
+  line-height: 1.8em;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h3 {
+  margin: 12px 0 8px 0;
+  font-size: 15px;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+li,
+p {
+  font-size: 14px;
+}
+
+address {
+  font-style: normal;
+  font-size: 18px;
+}
+
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
+ul {
+  list-style: none;
+}
+
+section {
+  width: 100%;
+}
+
+.contact {
+  width: 80%;
+  margin: 20px auto;
+}
+
+.contact div {
+  margin: 20px 40px 0 0;
+}
+
+.pull-left {
+  float: left;
+}
+
+#map {
+  height: 350px;
+}
+
+.clear {
+  float: none;
+  clear: both;
+}
+
+.panorama {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px #000 solid;
+}
